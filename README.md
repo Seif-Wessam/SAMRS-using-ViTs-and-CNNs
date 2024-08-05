@@ -53,22 +53,22 @@ python train_cnn.py --data_path /path/to/SAMRS --output_dir /path/to/save/models
 
 ## Evaluation
 Evaluate the performance of the trained models using:
-# Evaluate ViT model
+### Evaluate ViT model
 python evaluate_vit.py --data_path /path/to/SAMRS --model_path /path/to/saved/vit_model
 
-# Evaluate CNN model
+### Evaluate CNN model
 python evaluate_cnn.py --data_path /path/to/SAMRS --model_path /path/to/saved/cnn_model
 
-Results
+## Results
 The performance of both models is evaluated using metrics such as mean Intersection over Union (mIoU) and Overall Accuracy (OA). The results and comparison will be documented in the results directory.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions for improvements or find any bugs.
 
-License
+## License
 This project is licensed under the MIT License. The SAMRS dataset is available for academic purposes under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
 
-Citation
+## Citation
 If you use the SAMRS dataset in your research, please cite the following paper, off of which this project is based:
 
 bibtex
