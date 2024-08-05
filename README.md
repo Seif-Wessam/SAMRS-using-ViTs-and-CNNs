@@ -1,10 +1,9 @@
-# Image Segmentation Performance Comparison: ViTs vs. CNNs
+# Image Segmentation Performance Comparison: ViTs vs. CNNs vs hybrid models
 
-This repository contains the implementation and results of a project comparing the performance of Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) on image segmentation tasks using the SAMRS dataset.
+This repository contains the implementation and results of a project comparing the performance of Vision Transformers (ViTs), Convolutional Neural Networks (CNNs) and hybrid models (combining ViTs and CNNs) on image segmentation tasks using the SAMRS dataset.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Description](#description)
 - [Dataset](#dataset)
 - [Model Architectures](#model-architectures)
 - [Installation](#installation)
@@ -16,10 +15,7 @@ This repository contains the implementation and results of a project comparing t
 - [License](#license)
 
 ## Introduction
-This project aims to compare the performance of ViTs and CNNs on remote sensing image segmentation. The SAMRS dataset, specifically designed for remote sensing applications, serves as the benchmark for this comparison.
-
-## Description
-This project evaluates and compares Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) on remote sensing image segmentation using the SAMRS dataset.
+This project aims to compare the performance of ViTs, CNNs and hybrid models on remote sensing image segmentation. The SAMRS dataset, specifically designed for remote sensing applications, serves as the benchmark for this comparison.
 
 ## Dataset
 The SAMRS dataset is used in this project, specifically the SIOR dataset. It includes annotations and images for semantic segmentation tasks in the remote sensing domain. For more details, visit the [SAMRS GitHub page](https://github.com/ViTAE-Transformer/SAMRS).
