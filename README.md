@@ -71,8 +71,6 @@ This project is licensed under the MIT License. The SAMRS dataset is available f
 ## Citation
 If you use the SAMRS dataset in your research, please cite the following paper, off of which this project is based:
 
-bibtex
-Copy code
 @inproceedings{SAMRS,
  author = {Wang, Di and Zhang, Jing and Du, Bo and Xu, Minqiang and Liu, Lin and Tao, Dacheng and Zhang, Liangpei},
  booktitle = {Advances in Neural Information Processing Systems},
