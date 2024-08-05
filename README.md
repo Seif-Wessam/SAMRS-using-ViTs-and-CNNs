@@ -22,7 +22,7 @@ This project aims to compare the performance of ViTs and CNNs on remote sensing 
 This project evaluates and compares Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) on remote sensing image segmentation using the SAMRS dataset.
 
 ## Dataset
-The SAMRS dataset is used in this project. It includes annotations and images for semantic segmentation tasks in the remote sensing domain. For more details, visit the [SAMRS GitHub page](https://github.com/ViTAE-Transformer/SAMRS).
+The SAMRS dataset is used in this project, specifically the SIOR dataset. It includes annotations and images for semantic segmentation tasks in the remote sensing domain. For more details, visit the [SAMRS GitHub page](https://github.com/ViTAE-Transformer/SAMRS).
 
 ## Model Architectures
 ### Vision Transformer (ViT)
